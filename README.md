@@ -8,7 +8,7 @@
 ## 📌 Overview
 A production-grade, highly available AWS architecture built using a **Hub & Spoke** network topology with **Active-Active Multi-Region** configuration and full **Disaster Recovery (DR)** capabilities. The project hosts a **Cafe Website** that dynamically serves food & menu images stored in **Amazon S3**, and performs all read/write database operations through **Amazon RDS**.
 
-> 🎓 GBB Cloud Internship Graduation Project — built entirely via AWS Console
+> 🎓 GBG Cloud Internship Graduation Project — built entirely via AWS Console
 
 ---
 
